@@ -1,6 +1,6 @@
 {
   "name": "react-shop-master",
-  "home": "https://alexanderkaymanov.github.io/react-shop-master/",
+  "homepage": "https://alexanderkaymanov.github.io/react-shop-master/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
